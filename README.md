@@ -1,1 +1,1 @@
-# pluralsight-js-dev-env
+# Building a JavaScript Development Environment from PluralSight Course with Cory House
